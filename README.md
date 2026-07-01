@@ -1,7 +1,5 @@
 # CardioSense
 
-![CardioSense Analyzer](images/Cardinosense 1.png)
-
 CardioSense is a polished healthcare application that combines AI-powered symptom analysis with cardiac risk prediction. It features a beautiful dark UI and a full workflow for users to analyze symptoms, review health history, and run ML-based heart risk predictions.
 
 ## 🌟 Highlights
